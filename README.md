@@ -1,0 +1,1 @@
+# demo-module-exports-require
