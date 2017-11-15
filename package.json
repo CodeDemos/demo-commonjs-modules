@@ -1,21 +1,15 @@
 {
-  "name": "thinkful-counter-example",
+  "name": "demo-module-exports-require",
   "version": "0.0.1",
-  "description": "Simple counter app to demo Express stack",
+  "description": "demo-module-exports-require",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Thinkful-Ed/hyper-dev-counter-example"
+    "url": "https://github.com/NodeDemos/demo-module-exports-require"
   },
-  "keywords": [
-    "thinkful",
-    "node",
-    "hyperdev",
-    "express"
-  ],
   "dependencies": {
     "express": "^4.15.4"
   },

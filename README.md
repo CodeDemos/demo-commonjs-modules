@@ -1,4 +1,4 @@
-# Demo Common JS Require and Export
+# demo-module-exports-require
 
 
 - Require a built-in module like HTTP
