@@ -11,7 +11,7 @@
     "url": "https://github.com/NodeDemos/demo-module-exports-require"
   },
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.16.2"
   },
   "license": "MIT"
 }
