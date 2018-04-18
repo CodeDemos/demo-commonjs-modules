@@ -1,19 +1,19 @@
 'use strict';
 
-const create = function() {
+const create = function () {
   console.log('insert into database');
 };
 
-const read = function() {
+const read = function () {
   console.log('read from database');
 };
 
-const update = function() {
+const update = function () {
   console.log('update database');
 };
 
-const remove = function() {
+const remove = function () {
   console.log('remove from database');
 };
 
-module.exports = {create, read, update, remove};
+module.exports = { create, read, update, remove };

@@ -22,7 +22,7 @@ for (let prop in express) {
 
 /**************************************
  * Require a simple module in a **FILE**
- * Note: 
+ * Note:
  *   the relative path ('./hello-file')
  *   no `.js` extension needed
  */
@@ -32,7 +32,7 @@ console.log(helloFile);
 
 /**************************************
  * Require a simple module in a **FOLDER**
- * Note: 
+ * Note:
  *   the relative path ('./hello-folder')
  *   no `index.js` needed since it's loaded by default
  */
@@ -46,7 +46,7 @@ console.log(helloFolder);
  * Note: `index.js` is not specified since it's loaded by default
  */
 
-const {create, read, update, remove} = require('./models/storage');
+const { create, read, update, remove } = require('./models/storage');
 
 create();
 read();
