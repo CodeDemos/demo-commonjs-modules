@@ -1,7 +1,7 @@
 {
-  "name": "demo-module-exports-require",
+  "name": "demo-commonjs-modules",
   "version": "0.0.1",
-  "description": "demo-module-exports-require",
+  "description": "demo-commonjs-modules",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
